@@ -1,0 +1,4 @@
+Third-party libraries bundled in this folder (so the app works offline and no data leaves your computer)
+
+htmx 2.0.11      - 0BSD licence  - https://htmx.org
+Chart.js 4.6.2   - MIT licence   - https://www.chartjs.org
